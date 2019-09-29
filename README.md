@@ -35,7 +35,7 @@ Output di halaman berikutnya
 
 ![Screenshot_2019-09-29-13-28-52-437_com example MyIntentApp](https://user-images.githubusercontent.com/54838050/65828991-0fa1a100-e2cb-11e9-8a22-6e9a3959cb9f.png)
 
-**MyViewAndViews**
+**3. MyViewAndViews**
 
 ![Screenshot_2019-09-29-13-17-43-888_com example myviewandviews](https://user-images.githubusercontent.com/54838050/65828983-09132980-e2cb-11e9-8c63-2c9e20b6af6d.png)
 
