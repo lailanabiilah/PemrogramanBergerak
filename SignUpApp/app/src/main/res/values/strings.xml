@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="conten_text">2A Studio adalah tempat untuk belajar pemrograman perangkat bergerak baik dengan
+    Android , IOS, maupun Windows Phone. Tidak perlu khawatir jika anda belum memiliki basic dalam programing sebelumnya.
+    Sebab disini anda akan diajari from zero to hero dalam membuat aplikasi berbasis mobile. Segera daftarkan diri anda,
+    minggu depan harga naik!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="selamatDatang">"Selamat Datang di Polines Studio"</string>
+</resources>
