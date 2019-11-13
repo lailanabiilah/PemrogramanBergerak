@@ -14,7 +14,7 @@ public class HmjData {
                     "https://i.postimg.cc/yxBXSxYw/hms.jpg"},
             {"2",
                     "HMJ Mesin",
-                    "Jurusan Mesin Polines",
+                    "Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu HimpunanMahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni k Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.",
                     "https://i.postimg.cc/LsL1BS7R/hmm.jpg"},
             {"3",
                     "HMJ Akuntansi",
