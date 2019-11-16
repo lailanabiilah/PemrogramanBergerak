@@ -1,6 +1,7 @@
 # PemrogramanPerangkatBergerak
 
 **1. Biodata Mahasiswa**
+
 ![Screenshot_2019-09-29-13-20-18-390_com example biodataMhs](https://user-images.githubusercontent.com/54838050/65828984-09abc000-e2cb-11e9-8dde-1a15dfb2b7c6.png)
 
 **2. MyIntentApp**
@@ -37,5 +38,97 @@ Output di halaman berikutnya
 
 **3. MyViewAndViews**
 
-![Screenshot_2019-09-29-13-17-43-888_com example myviewandviews](https://user-images.githubusercontent.com/54838050/65828983-09132980-e2cb-11e9-8c63-2c9e20b6af6d.png)
+-Tampilan Awal 
+
+![Screenshot_2019-10-08-12-19-02-836_com example myviewandviews](https://user-images.githubusercontent.com/54838050/66394528-95c29380-e9ff-11e9-9437-2b85b1d771f3.png)
+
+-Form Donasi
+
+![Screenshot_2019-10-08-12-19-50-847_com example myviewandviews](https://user-images.githubusercontent.com/54838050/66394529-965b2a00-e9ff-11e9-87a7-3012315e690f.png)
+
+**4. SignUpApp**
+
+-Login
+
+![Screenshot_2019-10-08-12-18-17-779_com example signupapp](https://user-images.githubusercontent.com/54838050/66394530-96f3c080-e9ff-11e9-8fb9-68f75d111ee1.png)
+
+-Sign Up
+
+![Screenshot_2019-10-08-12-18-31-401_com example signupapp](https://user-images.githubusercontent.com/54838050/66394532-978c5700-e9ff-11e9-924d-a31504cd3000.png)
+
+**5. MyActionBar**
+
+-Halaman Main Activity
+
+![Screenshot_2019-11-12-15-43-25-464_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988082-8c311480-0864-11ea-82c9-f037d5ba9ac0.png)
+
+-Halaman Main Activity 1, ketika tanda seru di pojok kanan atas di klik
+
+![Screenshot_2019-11-12-15-43-19-702_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988070-3ceae400-0864-11ea-90b9-a3ced1b0d550.png)
+
+-Halaman Main Activity ketika di klik tanda titik tiga di pojok kanan atas
+
+![Screenshot_2019-11-12-15-43-15-029_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988066-33617c00-0864-11ea-8830-762d4880c69d.png)
+
+-kemudian klik Menu 2, akan muncul Main Activity 2
+
+![Screenshot_2019-11-12-15-43-03-123_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988069-35c3d600-0864-11ea-86f6-c7f20deab222.png)
+
+-Tanda pencarian di klik, tampilan akan berubah sebagai berikut
+
+![Screenshot_2019-11-12-15-43-25-464_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988114-006bb800-0865-11ea-841d-721fa44579cb.png)
+
+-Kemudian tulis pada pencarian
+
+![Screenshot_2019-11-12-15-43-34-611_com example myactionbar](https://user-images.githubusercontent.com/54838050/68988083-9521e600-0864-11ea-993d-aea5af095032.png)
+
+**FlexibleFragment**
+
+-Fragment Pertama
+
+![Screenshot_2019-11-12-22-23-18-817_com example flexiblefragment](https://user-images.githubusercontent.com/54838050/68988182-1a59ca80-0866-11ea-9fe2-47721dd5399a.png)
+
+-Ketika tandaa titik tig di pojok atas di klik
+
+![Screenshot_2019-11-12-22-23-32-497_com example flexiblefragment](https://user-images.githubusercontent.com/54838050/68988185-1ded5180-0866-11ea-80e5-b9a9d4fd0283.png)
+
+-Fragment Kedua
+
+![Screenshot_2019-11-12-22-23-46-683_com example flexiblefragment](https://user-images.githubusercontent.com/54838050/68988192-2c3b6d80-0866-11ea-879a-00a5f5cb941c.png)
+
+-Fragment Ketiga
+
+![Screenshot_2019-11-12-22-23-57-631_com example flexiblefragment](https://user-images.githubusercontent.com/54838050/68988193-2e9dc780-0866-11ea-89b5-e74951b0d037.png)
+
+**6. MyRecyclerView**
+
+![Screenshot_2019-11-12-21-55-14-622_com example myrecyclerview](https://user-images.githubusercontent.com/54838050/68988240-a966e280-0866-11ea-9c73-cb8d2740e0f4.png)
+
+![Screenshot_2019-11-12-21-55-22-105_com example myrecyclerview](https://user-images.githubusercontent.com/54838050/68988249-cb606500-0866-11ea-9d7a-47312de1d015.png)
+
+![Screenshot_2019-11-12-21-55-27-905_com example myrecyclerview](https://user-images.githubusercontent.com/54838050/68988250-cef3ec00-0866-11ea-8d42-c023eaa87f3a.png)
+
+**HMJ Polines**
+
+-Tampilan Awal
+
+![Screenshot_2019-11-12-21-43-43-572_com example HmjPolines](https://user-images.githubusercontent.com/54838050/68988267-23976700-0867-11ea-877f-a2b5a0646fdf.png)
+
+-ketika salah satu di buka detail
+
+![Screenshot_2019-11-12-21-43-47-128_com example HmjPolines](https://user-images.githubusercontent.com/54838050/68988269-26925780-0867-11ea-832d-c8ac07091fbc.png)
+
+**UTS Mobile Programming**
+
+-Halaman Awal
+
+![Screenshot_20191112-153805](https://user-images.githubusercontent.com/54838050/68988471-b71e6700-086a-11ea-899e-9344ff9863e4.png)
+
+-Salah satu di buka detail
+
+![Screenshot_20191112-153907 (1)](https://user-images.githubusercontent.com/54838050/68988470-b71e6700-086a-11ea-8b3d-328868f9b09d.png)
+
+-Tampilan Profil
+
+![Screenshot_20191112-153833](https://user-images.githubusercontent.com/54838050/68988469-b685d080-086a-11ea-8927-7643b70467f2.png)
 
