@@ -208,3 +208,22 @@ Output di halaman berikutnya
 ![WhatsApp Image 2020-01-04 at 20 05 48](https://user-images.githubusercontent.com/54838050/71767505-7aecb600-2f3f-11ea-9eaa-e9f36f122310.jpeg)
 
 
+**Daftar Belanja**
+
+![WhatsApp Image 2020-01-12 at 12 41 28](https://user-images.githubusercontent.com/54838050/72219312-5dd76900-3577-11ea-9b4b-a7f2a45b1467.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 30 (1)](https://user-images.githubusercontent.com/54838050/72219320-6def4880-3577-11ea-8bf7-64b3d736281c.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 31 (1)](https://user-images.githubusercontent.com/54838050/72219322-70ea3900-3577-11ea-9e86-dd5852f8fa34.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 32](https://user-images.githubusercontent.com/54838050/72219330-83fd0900-3577-11ea-806a-dd9d4843fbbc.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 31](https://user-images.githubusercontent.com/54838050/72219324-75aeed00-3577-11ea-9490-f675a199f46d.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 32 (2)](https://user-images.githubusercontent.com/54838050/72219326-7e9fbe80-3577-11ea-997d-18bb22c94135.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 29](https://user-images.githubusercontent.com/54838050/72219333-89f2ea00-3577-11ea-97eb-2ac7024868ca.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 29 (1)](https://user-images.githubusercontent.com/54838050/72219335-8cedda80-3577-11ea-90b2-04a478a52e49.jpeg)
+
+![WhatsApp Image 2020-01-12 at 12 41 31 (2)](https://user-images.githubusercontent.com/54838050/72219337-94ad7f00-3577-11ea-97e8-2a6f086e2a1a.jpeg)
