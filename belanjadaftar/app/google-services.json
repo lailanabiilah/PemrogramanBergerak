@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830069397461",
+    "firebase_url": "https://daftar-belanja-android.firebaseio.com",
+    "project_id": "daftar-belanja-android",
+    "storage_bucket": "daftar-belanja-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830069397461:android:a65520615bd67c55410f5c",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830069397461-1dkkcpr034herhlg66kca175arr4tpq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3zIBegXXy-hauZYv6cPGZSFEdkzNiLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830069397461-1dkkcpr034herhlg66kca175arr4tpq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
